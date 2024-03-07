@@ -10,33 +10,11 @@ My toolkit includes a variety of languages and technologies. Below, you'll find 
 
 ### 🛠️ Programming Languages
 
-#### .NET
-![.Net Badge](https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.net)  
-Proficiency: ▰▰▰▱▱ Intermediate
-
-#### C#
-![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp)  
-Proficiency: ▰▰▰▱▱ Intermediate
-
-#### Angular
-![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular)  
-Proficiency: ▰▰▰▱▱ Intermediate
-
-#### TypeScript
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)  
-Proficiency: ▰▰▱▱▱ Beginner
-
-#### C++
-![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B)  
-Proficiency: ▰▱▱▱▱ Novice
-
-#### Java
-![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)  
-Proficiency: ▰▰▱▱▱ Beginner
-
-#### Node.js
-![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js)  
-Proficiency: ▰▱▱▱▱ Novice
+| | | |
+|---|---|---|
+| **.NET**<br>![.Net Badge](https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.net)<br>Proficiency: ▰▰▰▱▱ Intermediate | **C#**<br>![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp)<br>Proficiency: ▰▰▰▱▱ Intermediate | **Angular**<br>![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular)<br>Proficiency: ▰▰▰▱▱ Intermediate |
+| **TypeScript**<br>![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)<br>Proficiency: ▰▰▱▱▱ Beginner | **C++**<br>![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B)<br>Proficiency: ▰▱▱▱▱ Novice | **Java**<br>![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)<br>Proficiency: ▰▰▱▱▱ Beginner |
+| **Node.js**<br>![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js)<br>Proficiency: ▰▱▱▱▱ Novice | | |
 
 ## 🌱 I'm currently learning...
 - IoT solutions with C++
