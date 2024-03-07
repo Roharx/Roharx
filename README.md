@@ -8,12 +8,11 @@ Pursuing a Computer Science degree at Erhvervsakademi Sydvest (EASV), I'm deeply
 ## 💻 Technologies & Skills
 My toolkit includes a variety of languages and technologies. Below, you'll find a visual representation of my proficiency in each, with skills honed through both academic studies and personal exploration.
 
-### 🛠️ Programming Languages
-
 | | | |
 |---|---|---|
-| ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B)<br>Proficiency: ▰▱▱▱▱ Novice | ![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp)<br>Proficiency: ▰▰▰▱▱ Intermediate | ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular)<br>Proficiency: ▰▰▰▱▱ Intermediate |
-| ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)<br>Proficiency: ▰▰▱▱▱ Beginner | ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)<br>Proficiency: ▰▰▱▱▱ Beginner | ![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js)<br>Proficiency: ▰▱▱▱▱ Novice  |
+| ![.Net Badge](https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.net)<br>Proficiency: ▰▰▰▱▱ Intermediate | ![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp)<br>Proficiency: ▰▰▰▱▱ Intermediate | ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular)<br>Proficiency: ▰▰▰▱▱ Intermediate |
+| ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)<br>Proficiency: ▰▰▱▱▱ Beginner | ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B)<br>Proficiency: ▰▱▱▱▱ Novice | ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)<br>Proficiency: ▰▰▱▱▱ Beginner |
+| ![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js)<br>Proficiency: ▰▱▱▱▱ Novice | | |
 
 ## 🌱 I'm currently learning...
 - IoT solutions with C++
