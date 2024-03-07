@@ -26,6 +26,3 @@ My toolkit includes a variety of languages and technologies. Below, you'll find 
 
 ## 🤝 How to reach me
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/balintjanosfarkas/) or follow my updates on [Facebook](https://www.facebook.com/ffbalint/).
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Roharx&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia)
