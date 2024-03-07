@@ -3,10 +3,10 @@
 Welcome to my GitHub! 🚀
 
 ## 📖 About Me
-Pursuing a Computer Science degree at Erhvervsakademi Sydvest (EASV), I'm deeply entrenched in exploring the fascinating worlds of the Internet of Things (IoT), robotics, and backend development. My academic journey is a testament to my passion for technology, especially the rapid advancements in artificial intelligence. Currently, I'm honing my skills in C#, but the intriguing complexities of IoT have sparked a burgeoning interest in C++.
+I am currently a student at Erhvervsakademi Sydvest (EASV), where I am pursuing a degree in computer science. My academic and professional interests predominantly revolve around the Internet of Things (IoT), robotics, and backend development, although I am genuinely fascinated by the broader spectrum of development fields. In particular, the ongoing advancements in artificial intelligence are especially captivating to me. At present, my studies are concentrated on C#, but as I delve deeper into the realm of IoT, I am starting to develop a deeper interest in C++ as well.
 
 ## 💻 Technologies & Skills
-My toolkit includes a variety of languages and technologies. Below, you'll find a visual representation of my proficiency in each, with skills honed through both academic studies and personal exploration.
+Currently my studies have revolved around the following languages and most of my skills in them are represented by the bars I have placed underneath them.
 
 ### 🛠️ Programming Languages
 
