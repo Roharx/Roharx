@@ -15,9 +15,9 @@ My toolkit includes a variety of languages and technologies. Below, you'll find 
 | ![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js)<br>Proficiency: ▰▱▱▱▱ Novice | | |
 
 ## 🌱 I'm currently learning...
-- IoT solutions with C++
-- Fullstack with WebSockets
-- DevOps, Docker, Drone & Sonarqube
+- Development of Large Systems
+- Databases for Developers
+- System Integration
 
 ## 📚 What I'm interested in learning next
 - Robotics
