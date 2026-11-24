@@ -3,7 +3,7 @@
 Welcome to my GitHub! 🚀
 
 ## 📖 About Me
-Pursuing a Computer Science degree at Erhvervsakademi Sydvest (EASV), I'm deeply entrenched in exploring the fascinating worlds of the Internet of Things (IoT), robotics, and backend development. My academic journey is a testament to my passion for technology, especially the rapid advancements in artificial intelligence. Currently, I'm honing my skills in C#, but the intriguing complexities of IoT have sparked my interest in C++.
+Junior full-stack developer with professional experience building .NET and Angular applications and an Outlook add-in integrated with Microsoft Dynamics 365 Business Central. Hands-on experience with API integrations, automated testing, CI/CD, and application security checks.
 
 ## 💻 Technologies & Skills
 My toolkit includes a variety of languages and technologies. Below, you'll find a visual representation of my proficiency in each, with skills honed through both academic studies and personal exploration.
