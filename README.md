@@ -5,8 +5,8 @@ Welcome to my GitHub! 🚀
 ## 📖 About Me
 Junior full-stack developer with professional experience building .NET and Angular applications and an Outlook add-in integrated with Microsoft Dynamics 365 Business Central. Hands-on experience with API integrations, automated testing, CI/CD, and application security checks.
 
-## 💻 Technologies & Skills
-My toolkit includes a variety of languages and technologies. Below, you'll find a visual representation of my proficiency in each, with skills honed through both academic studies and personal exploration.
+## 💻 Skills
+Below, you can find some languages I have practice in, the skill levels are weighed by how much I have used them and in what scenarios, ranging from personal projects to professional experience. The list has last been updated in 2024.
 
 | | | |
 |---|---|---|
