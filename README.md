@@ -14,15 +14,5 @@ My toolkit includes a variety of languages and technologies. Below, you'll find 
 | ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)<br>Proficiency: ▰▰▰▱▱ Intermediate | ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B)<br>Proficiency: ▰▱▱▱▱ Novice | ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)<br>Proficiency: ▰▰▱▱▱ Beginner |
 | ![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js)<br>Proficiency: ▰▱▱▱▱ Novice | | |
 
-## 🌱 I'm currently learning
-- Development of Large Systems
-- Databases for Developers
-- System Integration
-
-## 📚 What I'm interested in learning next
-- Robotics
-- Lower level development with C++
-- AI in IoT & robotics
-
 ## 🤝 How to reach me
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/balintjanosfarkas/) or follow my updates on [Facebook](https://www.facebook.com/ffbalint/).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/balintjanosfarkas/).
